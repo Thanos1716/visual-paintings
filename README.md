@@ -10,7 +10,7 @@
 
 ### What is this?
 
-This pack aims to give the armor trims unique textures in the GUI.
+This pack aims to give the paintings unique textures in the GUI.
 
 Below is a table of each of the new textures:
 
