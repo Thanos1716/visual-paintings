@@ -14,7 +14,7 @@ This pack aims to give the armor trims unique textures in the GUI.
 
 Below is a table of each of the new textures:
 
-![A table displaying all of the painting tweaks]()
+![A table displaying all of the painting tweaks](https://cdn.modrinth.com/data/1idgZN2z/images/1a313353c2809db028772a5df9430fbe653867c4.png)
 
 ### How do I get it to work?
 
@@ -36,7 +36,7 @@ If this pack interests you, come and join the [Discord server](https://discord.g
 
 Be sure to check out my other cool project, [Pixel Consistency](https://modrinth.com/resourcepack/pixel-consistency)!
 
-If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/visual-armor-trims/issues) page.
+If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/visual-paintings/issues) page.
 
 ### Curseforge
 
