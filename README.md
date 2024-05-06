@@ -36,7 +36,7 @@ If this pack interests you, come and join the [Discord server](https://discord.g
 
 Be sure to check out my other cool project, [Pixel Consistency](https://modrinth.com/resourcepack/pixel-consistency)!
 
-If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/visual-armor-trims/issues) page.
+If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/visual-paintings/issues) page.
 
 ### Curseforge
 
@@ -60,4 +60,4 @@ If you would like to:
  - Request a commission, or
  - Donate, to me directly
 
-please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/visual-armor-trims/issues) on the Github page.
+please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/visual-paintings/issues) on the Github page.
