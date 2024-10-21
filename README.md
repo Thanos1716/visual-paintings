@@ -10,7 +10,9 @@
 
 ### What is this?
 
-This pack aims to give the armor trims unique textures in the GUI.
+This pack aims to give the paintings unique textures in the GUI.
+
+<strong>Be warned, this only works for the creative mode items without datapacks!</strong>
 
 Below is a table of each of the new textures:
 
