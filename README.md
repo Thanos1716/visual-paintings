@@ -61,4 +61,3 @@ If you would like to:
  - Donate, to me directly
 
 please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/visual-paintings/issues) on the Github page.
-
