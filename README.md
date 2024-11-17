@@ -48,7 +48,7 @@ Credit to [Kristoffer Zetterstrand](https://zetterstrand.com/), [Sarah Boeving](
 
 If you are a resource pack developer and enjoy my work, I would love if you included any of my textures or models from this pack in yours. Be sure to credit me though!
 
-If you would like to upload a video showcasing this resource pack to a third party platform like Youtube or Odysee, credit would be highly appreciated, and be sure to let me know, I might include it here!
+If you would like to upload a video showcasing this resource pack to a third party platform like YouTube, credit would be highly appreciated, and be sure to let me know, I might include it here!
 
 ## Support Me
 
@@ -61,3 +61,4 @@ If you would like to:
  - Donate, to me directly
 
 please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/visual-paintings/issues) on the Github page.
+
